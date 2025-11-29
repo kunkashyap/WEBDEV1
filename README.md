@@ -32,10 +32,10 @@ Create modular, reusable components.
 ✔ Footer with Links & Branding
 
 🏗️ Technologies Used
-Technology	Purpose
-HTML5	Page structure
-CSS3	Styling & layout
-Flexbox	Alignment & responsiveness
-CSS Grid	Card-based layout
-Google Fonts (Inter)	Typography
-Unsplash + RandomUser API	Demo images
+
+HTML5 :	Page structure
+CSS3	 :Styling & layout
+Flexbox :	Alignment & responsiveness
+CSS Grid :	Card-based layout
+Google Fonts :(Inter)	
+Typography : Unsplash + RandomUser API	Demo images
